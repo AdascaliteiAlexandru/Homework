@@ -1,0 +1,28 @@
+09-06-2023 19:24:26.647 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:24:26.649 [main] ERROR org.homework9.Student - The input is empty
+09-06-2023 19:24:35.219 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:24:35.221 [main] ERROR org.homework9.Student - Invalid input
+09-06-2023 19:24:42.044 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:24:42.047 [main] ERROR org.homework9.Student - Invalid input
+09-06-2023 19:24:49.456 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:24:49.458 [main] INFO  org.homework9.Student - The student Ion Alexandra was added
+09-06-2023 19:24:49.458 [main] INFO  org.homework9.Student - The student Giovanni Andrada was added
+09-06-2023 19:24:49.459 [main] INFO  org.homework9.Student - The student Popa Ana was added
+09-06-2023 19:24:49.459 [main] INFO  org.homework9.Student - The student Popa Ana was deleted
+09-06-2023 19:24:49.459 [main] INFO  org.homework9.Student - The students of age 94 were listed
+09-06-2023 19:24:49.461 [main] INFO  org.homework9.Student - The students were listed in order of last name
+09-06-2023 19:25:26.896 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:25:26.898 [main] INFO  org.homework9.Student - The student Ion Alexandra was added
+09-06-2023 19:25:26.898 [main] INFO  org.homework9.Student - The student Giovanni Andrada was added
+09-06-2023 19:25:26.898 [main] INFO  org.homework9.Student - The student Popa Ana was added
+09-06-2023 19:25:26.899 [main] INFO  org.homework9.Student - The student Popa Ana was deleted
+09-06-2023 19:26:52.428 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:26:52.430 [main] INFO  org.homework9.Student - The student Ion Alexandra was added
+09-06-2023 19:26:52.431 [main] INFO  org.homework9.Student - The student Giovanni Andrada was added
+09-06-2023 19:26:52.431 [main] INFO  org.homework9.Student - The student Popa Ana was added
+09-06-2023 19:26:52.431 [main] INFO  org.homework9.Student - The student Popa Ana was deleted
+09-06-2023 19:28:49.954 [main] INFO  org.homework9.Student - The student Ion Adascalitei was added
+09-06-2023 19:28:49.957 [main] INFO  org.homework9.Student - The student Ion Alexandra was added
+09-06-2023 19:28:49.957 [main] INFO  org.homework9.Student - The student Giovanni Andrada was added
+09-06-2023 19:28:49.957 [main] INFO  org.homework9.Student - The student Popa Ana was added
+09-06-2023 19:28:49.958 [main] ERROR org.homework9.Student - Student does not exist
